@@ -1,0 +1,28 @@
+h1 {
+	text-align: center;
+	color: #1382c2;
+
+}
+body {
+	background: #bcf2ae;
+}
+th,td {
+	border: solid 1px #0034f0;
+}
+table {
+	border-collapse: collapse;
+	width: 100%;
+	text-align: center;
+}
+th {
+	background: #67c259;
+}
+td {
+	background: #ed0909;
+}
+.yellow {
+	background: #eaff00;
+}
+.blue {
+	background: slateblue;
+}
